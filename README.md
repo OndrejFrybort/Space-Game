@@ -1,10 +1,10 @@
-Space Game
+Space Game<br>
 This is  2D space game created using pygame.
+<br><br>
+Requirements<br>
+Python 3.x<br>
+Pygame<br><br>
 
-Requirements
-Python 3.x
-Pygame
-
-Run Instructions
-Run the file main.py to start the program.
+Run Instructions<br>
+Run the file main.py to start the program.<br>
 
